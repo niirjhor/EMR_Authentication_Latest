@@ -1,0 +1,34 @@
+.panel {
+    margin-bottom: 60px;
+}
+
+.navbar {
+    margin-bottom: 70px;
+}
+
+.panel-heading {
+    margin-bottom: 20px;
+}
+
+.nav-pills>li>a {
+    padding: 0;
+    padding-right: 10px;
+}
+
+.nav-pills>li>a:hover {
+    background-color: initial;
+}
+
+.nav-pills>li.active>a {
+    color: #7c2323;
+    background-color: initial;
+}
+.notice{
+    margin-left: 200px;
+}
+
+.nav-pills>li.active>a:hover,
+.nav-pills>li.active>a:focus {
+    color: #23527c;
+    background-color: inherit;
+}
